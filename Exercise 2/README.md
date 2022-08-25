@@ -57,15 +57,14 @@ The **history** command is used to view the commands you’ve entered before.
 
 9. **ping**
 <br>
-
 Use **ping** to check the connection to a server.
 
 ![ping](ping.png "ping")
 
-10. **t**
+10. **dig**
 <br>
 
-Used to retrieve information about DNS name servers.
+**dig** is used to retrieve information about DNS name servers.
 
 ![dig](dig.png "dig")
 
