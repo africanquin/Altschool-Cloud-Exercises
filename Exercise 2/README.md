@@ -10,4 +10,4 @@ Use the **df** command to see the available disk space in each of the partitions
 <br>
 
 Use the **du** command to know the disk usage of a file in your system.
-![du](./du.png "du") 
+![du](du.png "du") 
