@@ -55,8 +55,8 @@ The **history** command is used to view the commands you’ve entered before.
 
 ![alias](alias.png "alias")
 
-9. **ping**
-<br>
+9. **ping** <br>
+
 Use **ping** to check the connection to a server.
 
 ![ping](ping.png "ping")
