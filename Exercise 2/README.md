@@ -4,6 +4,6 @@
 
 ### linux commands
 
-<ul>df</ul>
-    <li>df<li>
-    
+<ul></ul>
+    <li>**df**<li>
+    **df**
