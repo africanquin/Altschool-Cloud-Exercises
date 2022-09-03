@@ -6,3 +6,10 @@
 
 ![passwd](passwd.png "/etc/passwd")
 
+##### /etc/group
+
+![group](./group.png "/etc/group")
+
+##### /etc/sudoers
+
+![sudoers](./sudoers.png "/etc/sudoers")
