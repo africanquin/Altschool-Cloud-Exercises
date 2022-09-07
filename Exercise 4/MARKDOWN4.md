@@ -6,7 +6,7 @@
 
 <li> I Learnt how to use the add-apt-repository command </li>
 
-<li>I Installed the PHP 7.4 on me local linux machine using the ppa:ondrej/php package repo </li>
+<li>I Installed the PHP 7.4 on my local linux machine using the ppa:ondrej/php package repo </li>
 
 <br>
 
