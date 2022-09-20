@@ -11,7 +11,7 @@
 <li>I had my name and email setup in Git’s global config
 <br>
 
-Attached below are the required outputs;
+Attached below are screenshots of the required outputs;
 
 ##### git config -l
 
