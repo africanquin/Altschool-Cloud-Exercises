@@ -25,17 +25,3 @@
 
 ### Number of Hosts
 #### 6
-
-
-### Script
-
-![Script](./Script.png "Script")
-
-### Cronjob
-
-![Cronjob](./cronjob.png "Cronjob")
-
-### Email
-
-![Email](./email.png "Email")
-
